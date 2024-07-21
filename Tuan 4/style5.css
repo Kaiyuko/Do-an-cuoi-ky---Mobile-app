@@ -1,0 +1,21 @@
+body{
+    font-family: "Verdana, Geneva, Tahoma, sans-serif";
+}
+p{
+    font-size: 20px;
+    line-height: 1.6;
+    font-size: 16px;
+}
+a{
+    display: inline-block;
+    border: 5px solid black;
+    border-radius: 999px;
+    padding: 8px 16px;
+    margin-top: 16px;
+    transition: ease 0.25;
+    font-weight: 600px;
+}
+a:hover{
+    color: violet;
+    background-color: lavender;
+}

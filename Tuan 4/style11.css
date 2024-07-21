@@ -1,0 +1,7 @@
+h2, img{
+    opacity: 0.5;
+}
+h3{
+    visibility: hidden; /* sẽ ẩn thẻ nhưng không làm mất đi không gian mà thẻ đã chiếm. */
+    pointer-events: none; /*  sẽ ngăn chặn mọi hành động tương tác với thẻ, như click chuột hay hover. */
+}
